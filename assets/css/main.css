@@ -209,6 +209,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
+
 	h2 {
 		font-size: 1.75em;
 	}
@@ -3482,6 +3483,7 @@ input, select, textarea {
 
 	#header + #wrapper > .wrapper > .inner {
 		margin: 0 auto;
+		color: #ffffff;
 	}
 
 /* Footer */
